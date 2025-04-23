@@ -1,0 +1,23 @@
+body{
+color:rgb(190, 158, 221);
+background-color: rgb(98, 98, 185);
+padding: 20px;
+line-height:1.6;
+}
+h1, h2, h3{
+ margin: 10px 0;
+ font-weight: 700;
+}
+
+.selo{
+background-color: blueviolet;
+color:rgb(9, 9, 37);
+padding: 7px 15px;
+font-size: 14px;
+border-radius: 12px;
+}
+
+.destaque{
+    background-color: blue;
+    
+}
